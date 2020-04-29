@@ -27,6 +27,10 @@ body {
 	margin-right: 10%;
 }
 
+.video {
+	width:100%;
+}
+
 /*
 #quiz {
 	margin-left: 10px;
